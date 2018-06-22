@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE220567_BLE_Thermometer" WorkspaceName="CE220567_BLE_Thermometer.cywrk">
+	<Version>1.0</Version>
+	<Keyword>BLE_PDL</Keyword> 
+	<Keyword>BLE</Keyword> 
+	<Keyword>ADC</Keyword> 
+	<Keyword>RTC</Keyword>
+	<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+	<Description>This code example demonstrates interfacing PSoC 6 MCU with a thermistor circuit to read temperature information and sending the data over BLE Health Thermometer Service to a mobile device running CySmart mobile application.</Description>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE220567_BLE_Thermometer.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>

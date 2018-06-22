@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE218133_EINK_CapSense" WorkspaceName="CE218133_EINK_CapSense.cywrk">
+	<Version>1.10</Version>
+	<Keyword>TCPWM</Keyword> 
+	<Keyword>PWM</Keyword> 
+	<Keyword>CapSense</Keyword> 
+	<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+	<Description>This code example shows how to create a user-interface solution using an E-INK display and CapSense.</Description>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE218133_EINK_CapSense.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>
