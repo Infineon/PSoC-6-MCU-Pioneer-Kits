@@ -46,6 +46,33 @@ To use the code examples in this repository, please download and install
 **Note** Please refer to the code example documentation for selecting the appropriate kit for testing the project
 
 ## Code Example List
+### CY8CKIT-062-BLE Pioneer Kit
+#### 1. CE218133 - PSoC 6 MCU E-INK Display with CapSense
+This code example shows how to create a user-interface solution using an E-INK display and CapSense.
+#### 2. CE218135 – PSoC 6 MCU with BLE Connectivity: BLE with Proximity
+This code example demonstrates connectivity between the PSoC 6 MCU with Bluetooth Low Energy (BLE) and CySmart
+BLE host emulation tool or mobile device running the CySmart mobile application, to transfer CapSense proximity sensing
+information.
+#### 3. CE220167 – PSoC 6 MCU with BLE Connectivity: BLE with User Interface
+This code example demonstrates interfacing PSoC 6 MCU with BLE Connectivity (PSoC 6 MCU) with user interface functions
+such as an E-INK display, RGB LED, and touch sensors based on self and mutual capacitance (CapSense CSD and CSX).
+These functions provide bi-directional BLE connectivity between the PSoC 6 MCU and a PC running the CySmart™ BLE Host
+Emulation tool or a mobile device running the CySmart mobile application.
+#### 4. CE220186 – PSoC 6 MCU with BLE Connectivity: RTC with Current Time Service
+This code example demonstrates accurate time keeping with PSoC 6 MCU’s real-time clock (RTC), which is synchronized with
+a current time server such as an iPhone using the BLE current time service (CTS).
+#### 5. CE220272 - PSoC 6 MCU with BLE Connectivity: Direct Test Mode
+This code example demonstrates Direct Test Mode (DTM) over the Host Controller Interface (HCI) using PSoC
+6 MCU with Bluetooth Low Energy (BLE) Connectivity.
+#### 6. CE220335 – PSoC 6 MCU with BLE Connectivity: Eddystone Beacon
+This code example demonstrates a Bluetooth Low Energy (BLE) beacon that broadcasts the core frame types (UID, URL, and
+TLM) of Google’s Eddystone beacon profile.
+#### 7. CE220675 – PSoC 6 MCU: Motion Sensor
+This code example demonstrates how to interface a PSoC 6 MCU with a BMI160 motion sensor. This example reads steps
+counted by the sensor to emulate a pedometer. Raw motion data is also read and used to estimate the orientation of the board.
+#### 8. CE222046 – PSoC 6 BLE Throughput Measurement
+This code example demonstrates how to maximize the BLE throughput on PSoC 6 MCU with Bluetooth Low Energy (BLE)
+Connectivity device.
 
 
 ## References
