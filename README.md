@@ -73,6 +73,10 @@ counted by the sensor to emulate a pedometer. Raw motion data is also read and u
 #### 8. CE222046 – PSoC 6 BLE Throughput Measurement
 This code example demonstrates how to maximize the BLE throughput on PSoC 6 MCU with Bluetooth Low Energy (BLE)
 Connectivity device.
+#### 9. CE220567 – PSoC 6 MCU with BLE Connectivity: BLE Thermometer
+This code example demonstrates interfacing PSoC 6 MCU with a thermistor circuit to read temperature information and sending
+the data over Bluetooth Low Energy Health Thermometer Service (HTS) to a mobile device running CySmart mobile
+application.
 
 
 ## References
