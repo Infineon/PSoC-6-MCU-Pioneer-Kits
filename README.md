@@ -45,7 +45,7 @@ To use the code examples in this repository, please download and install
 
 **Note** Please refer to the code example documentation for selecting the appropriate kit for testing the project
 
-## Code Example List
+## Code Examples List
 ### CY8CKIT-062-BLE Pioneer Kit
 #### 1. CE218133 - PSoC 6 MCU E-INK Display with CapSense
 This code example shows how to create a user-interface solution using an E-INK display and CapSense.
