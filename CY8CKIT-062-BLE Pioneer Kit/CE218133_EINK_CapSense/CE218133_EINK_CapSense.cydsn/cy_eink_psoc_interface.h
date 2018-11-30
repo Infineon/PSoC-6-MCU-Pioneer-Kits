@@ -63,7 +63,7 @@
 #define CY_EINK_BYTE_SIZE      (uint8_t)(0x08u)
 #define CY_EINK_SINGLE_BYTE    (uint8_t)(0x01u)
 
-/* Definitions of pin sates */
+/* Definitions of pin states */
 #define CY_EINK_PIN_LOW        (uint8_t)(0x00u)
 #define CY_EINK_PIN_HIGH       (uint8_t)(0x01u)
 
